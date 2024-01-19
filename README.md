@@ -15,3 +15,9 @@
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ip addr ```
 - Clone do Google Account
+
+### Exemplo de Tela com Login
+<img src="https://github.com/wagzam/DIO-Phishing_Kali/blob/main/Clone%20Login%20Google.png"/>
+
+### Exposição Login e Senha pelo SETOOLKIT
+<img src="https://github.com/wagzam/DIO-Phishing_Kali/blob/main/Login_Senha%20Capturados.png"/>
