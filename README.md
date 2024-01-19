@@ -1,4 +1,4 @@
-# Phishing exemplo para captura de senhas do Facebook
+# Phishing exemplo para captura do login Google
 
 ### Ferramentas
 
@@ -14,4 +14,4 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Clone do Google Account
